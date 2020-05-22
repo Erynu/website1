@@ -1,0 +1,40 @@
+body{
+
+background-color:#FFFBC5 ;
+
+
+}
+ aside {
+
+padding-top: 40px;
+
+
+ }
+
+.widgets {
+
+background-color: #E3FFC5;
+color: #FFF;
+margin-bottom: 12px; 
+
+}
+
+
+.widgets > div {
+background-color: #C5D3FF;
+color: #424242;
+margin-bottom: 12px;
+
+
+}
+
+footer {
+	padding: 0px 80px;
+	background: #FCFFF3;
+	text-align: center; 
+	color: #060703;
+	font-size-adjust: 10p;
+}
+
+
+
